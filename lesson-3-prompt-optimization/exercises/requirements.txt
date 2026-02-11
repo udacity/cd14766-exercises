@@ -1,0 +1,15 @@
+# Core dependencies for Lesson 3: Prompt Optimization (Modern Gen AI SDK)
+google-genai>=1.0.0
+
+# Data handling and validation
+dataclasses-json>=0.5.9
+python-dotenv>=1.0.0
+
+# Testing and development
+pytest>=7.0.0
+pytest-asyncio>=0.21.0
+
+# Development tools
+black>=23.0.0
+ruff>=0.1.0
+mypy>=1.5.0

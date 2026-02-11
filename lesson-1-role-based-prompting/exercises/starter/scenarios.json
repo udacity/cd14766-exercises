@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "EcoTech Solar Expansion",
+    "company_name": "EcoTech Solutions", 
+    "industry": "Clean Technology",
+    "market_focus": "residential solar energy systems",
+    "strategic_question": "Should we expand into commercial solar markets, or focus on residential customer acquisition?",
+    "additional_context": "Currently serving residential customers in California and Texas with 15% market share. Strong technical capabilities but limited sales resources. Recent 40% increase in residential demand due to government incentives.",
+    "use_case": "Test your personas with a strategic market expansion decision",
+    "expected_focus_areas": [
+      "Market sizing analysis",
+      "Competitive positioning",
+      "Resource allocation strategy"
+    ]
+  },
+  {
+    "id": 2, 
+    "name": "FinTech Positioning Challenge",
+    "company_name": "PayFlow Systems",
+    "industry": "Financial Technology",
+    "market_focus": "small business payment processing",
+    "strategic_question": "How should we differentiate from established players like Square and Stripe in the SMB market?",
+    "additional_context": "New entrant with innovative mobile-first platform. Lower fees than competitors but limited brand recognition. Targeting businesses with $100K-$2M annual revenue.",
+    "use_case": "Test competitive analysis and positioning capabilities",
+    "expected_focus_areas": [
+      "Competitive differentiation",
+      "Market positioning strategy", 
+      "Customer acquisition approach"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Healthcare AI Ethics",
+    "company_name": "MedAI Diagnostics", 
+    "industry": "Healthcare Technology",
+    "market_focus": "AI-powered medical imaging analysis",
+    "strategic_question": "What are the primary risks and regulatory challenges for expanding our AI diagnostics platform internationally?",
+    "additional_context": "FDA-approved platform with 95% diagnostic accuracy. Considering expansion to European and Asian markets with different regulatory frameworks and data privacy requirements.",
+    "use_case": "Test risk assessment and strategic planning abilities",
+    "expected_focus_areas": [
+      "Regulatory risk analysis",
+      "International expansion strategy",
+      "Compliance and ethics considerations"
+    ]
+  }
+]
